@@ -61,8 +61,6 @@ API Integration, Problem Solving, Performance Optimization
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working A Flutter Developer in Cyparta
 
-🧠 I'm currently learning develop mobile application by using Flutter
-
 👯‍♀️ I'm Participated in Devfest Mansoura Hackathon 2023 as a competitor and successfully finished as a Top 10
 
 
