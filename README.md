@@ -18,8 +18,37 @@
 ## 🚀 About Me
 I'm Ahmed Abdelwahab Hassan , studied statistic and computer science in faculty of science mansoura university and studied develop mobile applications by using Flutter in Udemy , and currently I'm working Flutter Developer in Cyparta'Software House' .
 
-## 🛠 Skills
-Dart , oob , Flutter , Firebase , Api , Figma , Problem Solving , Database , sqlflite , Data Stuctures , state management , bloc && cubit , MVVM Architecture Pattern  
+🛠️ Technical Skills
+
+Languages:
+Dart, C# , Python
+
+Frameworks & Tools:
+Flutter, Firebase, RESTful APIs, Dio, HTTP
+
+Architecture & State Management:
+Model-View-ViewModel (MVVM), Cubits & States, Clean Architecture, Service Locator
+
+Principles:
+OOP, SOLID Design Principles
+
+Databases:
+Firebase Firestore, Realtime Database, MySQL, SQLite, Shared Preferences
+
+UI/UX:
+Responsive UI, Custom Animations, Themes, Reusable Components, Material Design
+
+App Features:
+Localization, Navigation, Notifications, Payment Integration
+
+Networking & APIs:
+JSON Parsing, Error Handling
+
+Version Control & Deployment:
+Git, GitHub, App Deployment (Google Play & App Store), CI/CD
+
+Other Skills:
+API Integration, Problem Solving, Performance Optimization
 
 </p>
 <!-- markdownlint-enable MD033 -->
