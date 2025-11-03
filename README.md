@@ -16,7 +16,12 @@
 📫 How to reach me capahmed117050@gmail.com
 
 ## 🚀 About Me
-I'm Ahmed Abdelwahab Hassan , studied statistic and computer science in faculty of science mansoura university and studied develop mobile applications by using Flutter in Udemy , and currently I'm working Flutter Developer in Cyparta'Software House' .
+I am Ahmed Abdelwahab Hassan, Junior Flutter Developer with 1 year of professional experience at Cyparta (Software House).
+I have developed and published 10+ mobile applications on Google Play and App Store.
+Experienced in app deployment, Firebase integration, and state management.
+Achieved 4th place in GDG Mansoura Hackathon 2023.
+Graduated from Faculty of Science, Mansoura University – Statistics & Computer Science Department.
+Passionate about building scalable, high-performance Flutter apps with clean architecture and modern UI/UX design.
 
 🛠️ Technical Skills
 
