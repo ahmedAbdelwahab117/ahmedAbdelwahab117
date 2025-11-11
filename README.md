@@ -13,9 +13,10 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Mobile+App+Developer;Flutter;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
-
+<p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
 <br><br>
+</p>
 
 
 📫 How to reach me capahmed117050@gmail.com
