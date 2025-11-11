@@ -84,16 +84,16 @@ API Integration, Problem Solving, Performance Optimization
   <a href="https://www.facebook.com/profile.php?id=100011504895411&mibextid=ZbWKwL" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
-  <a href="capahmed117050@gamil.com" target="_blank">
+  <a href="capahmed117050@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/ahmedaboda32?igsh=a3pkeWNzaXV4dTJ0" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="@ElAfreeT117" target="_blank">
+  <a href="[@ElAfreeT117](https://t.me/ElAfreeT117)" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
-  <a href="+201027102701" target="_blank">
+  <a href="[+201027102701](https://wa.me/201027102701)" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
 </div>
