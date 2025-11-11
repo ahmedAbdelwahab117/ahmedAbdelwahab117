@@ -77,7 +77,7 @@ API Integration, Problem Solving, Performance Optimization
   <a href="https://x.com/ahmedAboda117?t=HRYy8SAJhacReZlxtH3ILw&s=09" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
   </a>
-  <a href="ahmed117050" target="_blank">
+  <a href="https://discord.com/users/ahmed117050" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100011504895411&mibextid=ZbWKwL" target="_blank">
