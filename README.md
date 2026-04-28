@@ -103,8 +103,7 @@ API Integration, Problem Solving, Performance Optimization
   </a>
   <!-- Portfolio -->
   <a href="https://abdelwahab-d777.web.app/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="52" height="40" alt="portfolio logo" />
+    <img src="https://cdn-icons-png.flaticon.com/512/7770/7770659.png" width="52" height="40" alt="portfolio logo" />
   </a>
-  
 </div>
 
