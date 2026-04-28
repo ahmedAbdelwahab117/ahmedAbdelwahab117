@@ -101,5 +101,10 @@ API Integration, Problem Solving, Performance Optimization
   <a href="https://wa.me/201027102701" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
   </a>
+  <!-- Portfolio -->
+  <a href="https://abdelwahab-d777.web.app/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="52" height="40" alt="portfolio logo" />
+  </a>
+  
 </div>
 
