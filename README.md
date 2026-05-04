@@ -1,7 +1,18 @@
-<!-- markdownlint-disable MD033 MD041 -->
-<p align="center">
-  <h3 align="center">⌨️ Hi, I'm Ahmed Abdelwahab 👋</h3>
-</p>
+<div align="center">
+
+<!-- ===== HERO BANNER ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a0a2e,60:00f0ff,100:7f00ff&height=220&section=header&text=Ahmed%20Abdelwahab%20Hassan&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=🚀%20Software%20Engineer%20%7C%20☁️%20Mobile%20App%20Developer%20%7C%20🤖%20Flutter%20&descAlignY=58&descSize=17&animation=twinkling" />
+
+<!-- ===== ANIMATED SIDE ICONS + TYPING ===== -->
+<img src="https://user-images.githubusercontent.com/74038190/213911283-7b1d04b4-b7f5-4c9c-84f6-6b24c37b9a3c.gif" width="80px" />
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/AhmedFathyMohamed10">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=650&lines=Flutter+Developer%7C+2%2B+Years;Dart+%7C+Flutter+%7C+Firebase;Mobile+App+Engineer+%7C+Flutter;Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing SVG" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/213911283-7b1d04b4-b7f5-4c9c-84f6-6b24c37b9a3c.gif" width="80px" />
+
+<br/><br/>
 
 
 
@@ -9,9 +20,7 @@
 
 
    
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Mobile+App+Developer;Flutter;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
-</p>
+
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
