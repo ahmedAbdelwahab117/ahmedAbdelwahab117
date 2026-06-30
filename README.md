@@ -24,7 +24,7 @@
 📫 How to reach me: ahmedabdelwahab1170@gmail.com
 
 ## 🚀 About Me
-I am Ahmed Abdelwahab Hassan, Junior Flutter Developer with 1 year of professional experience at Cyparta (Software House).
+I am Ahmed Abdelwahab Hassan, Junior Flutter Developer with 2 year of professional experience at Cyparta (Software House).
 I have developed and published 10+ mobile applications on Google Play and App Store.
 Experienced in app deployment, Firebase integration, and state management.
 Achieved 4th place in GDG Mansoura Hackathon 2023.
