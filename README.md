@@ -24,7 +24,7 @@
 📫 How to reach me: ahmedabdelwahab1170@gmail.com
 
 ## 🚀 About Me
-I am Ahmed Abdelwahab Hassan,a Flutter Developer with over 2 years of experience in building and publishing cross-platform mobile applications using Flutter.
+I am Ahmed Abdelwahab Hassan,a Flutter Developer with 3 years of experience in building and publishing cross-platform mobile applications using Flutter.
 Skilled in delivering high-performance solutions for iOS and Android, with a strong focus on clean architecture, scalability, and user experience.
 I have developed and published 10+ mobile applications on Google Play and App Store.
 Experienced in app deployment, Firebase integration, and state management.
